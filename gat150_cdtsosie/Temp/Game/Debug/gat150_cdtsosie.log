@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\ctsosie\Neumont\Year 1 Neumont\Q 3\Sprint 1\C++\C++ Visual Studio\GAT150 GameEngine\gat150_cdtsosie\Engine\Source\Math\Random.h(15,70): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'Source/Main.cpp')
+  
+C:\Users\ctsosie\Neumont\Year 1 Neumont\Q 3\Sprint 1\C++\C++ Visual Studio\GAT150 GameEngine\gat150_cdtsosie\Engine\Source\Core\CTime.h(15,35): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'Source/Main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  gat150_cdtsosie.vcxproj -> C:\Users\ctsosie\Neumont\Year 1 Neumont\Q 3\Sprint 1\C++\C++ Visual Studio\GAT150 GameEngine\gat150_cdtsosie\Bin\Game\Debug\Game.exe
